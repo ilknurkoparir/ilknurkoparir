@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm İlknur Koparır</h1>
-<h3 align="center">👨‍💻 I'm İlknur, and I'm here as a reflection of my passion for the world of software. I'm a dedicated software developer with a passion for the field of artificial intelligence, continually working on honing my AI skills by contributing to open-source projects and creating my own. As an AI enthusiast, I'm always eager to explore and learn new technologies. If you have any recommendations, please feel free to share.</h3>
+<h3 align="center">👨‍💻 Computer Engineering student</h3>
 
 - 📫 How to reach me **ilknurkoparir262@gmail.com**
 
