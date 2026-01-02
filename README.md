@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm İlknur Koparır</h1>
-<h3 align="center">👨‍💻 Computer Engineering student</h3>
+<h3 align="center">🤖 MSc. Student in Robotics</h3>
 
 - 📫 How to reach me **ilknurkoparir262@gmail.com**
 
